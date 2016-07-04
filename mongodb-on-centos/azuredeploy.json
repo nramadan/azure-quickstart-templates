@@ -10,12 +10,10 @@
       "type": "string"
     },
     "adminUserName": {
-      "type": "string",
-      "defaultValue": "sduser"
+      "type": "string"
     },
     "adminPassword": {
-      "type": "securestring",
-      "defaultValue": "P@ss123"
+      "type": "securestring"
     },
     "imagePublisher": {
       "type": "string",
